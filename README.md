@@ -78,9 +78,15 @@ ESP32 receives the structured command and:
 
 ## 📸 Demo
 
-Here are some visual demonstrations of the Intelligent Command-Controlled LED System in action:
+### 🎥 Video Demonstration
+
+Watch the system in action! Check out this demonstration video showing the Intelligent Command-Controlled LED System responding to natural language commands:
+
+[![Demo Video](https://img.shields.io/badge/▶️%20Watch%20Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com/shorts/pnuRgJ-No6I?si=4nuYTquCveCIkH6m)
 
 ### System Interface and Hardware Setup
+
+Here are some visual demonstrations of the Intelligent Command-Controlled LED System in action:
 
 <div align="center">
   <img src="demo/1.jpg" alt="Demo Image 1" width="400"/>
