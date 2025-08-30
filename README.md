@@ -76,6 +76,34 @@ ESP32 receives the structured command and:
 
 ---
 
+## 📸 Demo
+
+Here are some visual demonstrations of the Intelligent Command-Controlled LED System in action:
+
+### System Interface and Hardware Setup
+
+<div align="center">
+  <img src="demo/1.jpg" alt="Demo Image 1" width="400"/>
+  <p><em>System setup and interface overview</em></p>
+</div>
+
+<div align="center">
+  <img src="demo/2.jpg" alt="Demo Image 2" width="400"/>
+  <p><em>LED control demonstration</em></p>
+</div>
+
+<div align="center">
+  <img src="demo/3.jpg" alt="Demo Image 3" width="400"/>
+  <p><em>Multi-language command processing</em></p>
+</div>
+
+<div align="center">
+  <img src="demo/4.jpg" alt="Demo Image 4" width="400"/>
+  <p><em>Real-time hardware response</em></p>
+</div>
+
+---
+
 ## ✨ Key Benefits
 
 ### 🎯 **Flexibility & Customization**
